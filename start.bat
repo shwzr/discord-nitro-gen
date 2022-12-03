@@ -1,0 +1,1 @@
+python discord-nitro-gen.py
